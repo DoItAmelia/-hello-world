@@ -24,6 +24,7 @@
 3. Azure 로고 click
 4. STATIC WEB APPS 레이블에 + 기호 누르기
 ![image](https://user-images.githubusercontent.com/88205708/129472630-3823dddc-4925-40df-9bc2-1bb50521dfc3.png)
+
 5. 구독: Azure 구독1 선택 > 앱 이름 입력>custom 선택 > ./ 입력 > ./ 입력
 ![image](https://user-images.githubusercontent.com/88205708/129472649-f11c7ca0-1a11-49e0-865a-e3b495eb7d9d.png)
 ![image](https://user-images.githubusercontent.com/88205708/129472663-069e60e9-0f20-4072-b7a1-b0998ccca6e3.png)
